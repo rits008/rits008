@@ -8,7 +8,13 @@
 - 💬 Ask me about ...anything i will try to help you if i can  
 
 
+## Find me around the web
+-Sharing updates on <a href ="https://www.linkedin.com/in/ritik-rajpoot/">LinkedIn </> 
+
+
 
 -[![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=rits008)](https://github.com/rits008/github-readme-stats)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rits008&layout=compact)](https://github.com/rits008/github-readme-stats)
+
+
