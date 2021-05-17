@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently working on self development.
@@ -9,7 +9,7 @@
 
 
 ## Find me around the web
--Sharing updates on <a href ="https://www.linkedin.com/in/ritik-rajpoot/">LinkedIn </> 
+-Sharing updates on <a href ="https://www.linkedin.com/in/ritik-rajpoot/">LinkedIn</a> 
 
 
 
