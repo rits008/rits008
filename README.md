@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 
 - 🔭 I’m currently working on self development.
@@ -10,11 +10,3 @@
 
 ## Find me around the web
 -Sharing updates on <a href ="https://www.linkedin.com/in/ritik-rajpoot/">LinkedIn</a> 
-
-
-
--[![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=rits008)](https://github.com/rits008/github-readme-stats)
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rits008&layout=compact)](https://github.com/rits008/github-readme-stats)
-
-
