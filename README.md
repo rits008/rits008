@@ -1,5 +1,6 @@
 ## Hi 👋
-
+### Hi! 👋
+![I am full stack web developer](./banner.png)
 
 - 🔭 I’m currently working on self development.
 - 🌱 I’m currently learning ReactJs and NodeJs.
