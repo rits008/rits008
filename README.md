@@ -47,9 +47,6 @@
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=rits008
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rits008&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rits008)](https://github.com/anuraghazra/github-readme-stats)
 
-## Find me around the web
--Sharing updates on <a href ="https://www.linkedin.com/in/ritik-rajpoot/">LinkedIn</a> 
