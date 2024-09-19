@@ -4,7 +4,6 @@
 <!-- <img align="right" width="400" height="200" src="https://media.giphy.com/media/sGsOdL0YWYK0xSvARV/giphy.gif">      -->
  
 <ul>
-<li>✨ I’m  a Final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
 <li>✨ Connect with me on <a href="https://www.linkedin.com/in/ritik-rajpoot-2722b9197/">LinkedIn </a></li>
 <li> ✨ How to reach me: thisisritik3000@gmail.com </li>
  </ul> </p> 
@@ -20,13 +19,9 @@
  <ul>
    <li>  💬Full stack Development</li>
  <li>  💬Data structure and Algorithms </li>
-  <li>  💬ReactJs</li>
   </ul>
 </p>
-
-
 <br> 
- 
 </ul>
 </p>
 <br>  <br>  
